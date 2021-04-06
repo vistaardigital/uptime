@@ -20,13 +20,8 @@ sites:
   
 
 status-website:
-  cname: http://uptime.showdigital.in/
+  cname: uptime.showdigital.in
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status
+  name: Uptime
   introTitle: "Site uptime monitor and status page, powered by GitHub and Upptime."
   introMessage: Real time status data
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
