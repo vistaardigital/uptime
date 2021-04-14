@@ -17,7 +17,9 @@ sites:
     url: https://weoneapp.com/
   - name: Dastaa
     url: https://dastaa.vasudhapower.in/
-  
+assignees:
+  - vistaar-drane
+  - vistaar-mjani
 
 status-website:
   cname: uptime.showdigital.in
