@@ -13,7 +13,7 @@
     "time": 1156,
     "timeDay": 884,
     "timeWeek": 1067,
-    "timeMonth": 1156,
+    "timeMonth": 1148,
     "timeYear": 1156,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 279,
     "timeDay": 78,
     "timeWeek": 236,
-    "timeMonth": 279,
+    "timeMonth": 277,
     "timeYear": 279,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 415,
     "timeDay": 145,
     "timeWeek": 332,
-    "timeMonth": 415,
+    "timeMonth": 413,
     "timeYear": 415,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 330,
     "timeDay": 133,
     "timeWeek": 268,
-    "timeMonth": 330,
+    "timeMonth": 325,
     "timeYear": 330,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 1420,
     "timeDay": 1503,
     "timeWeek": 1416,
-    "timeMonth": 1420,
+    "timeMonth": 1416,
     "timeYear": 1420,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 1109,
     "timeDay": 1123,
     "timeWeek": 1124,
-    "timeMonth": 1109,
+    "timeMonth": 1111,
     "timeYear": 1109,
     "dailyMinutesDown": {}
   },
@@ -112,16 +112,16 @@
     "url": "https://dastaa.vasudhapower.in/",
     "icon": "https://favicons.githubusercontent.com/dastaa.vasudhapower.in",
     "slug": "dastaa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1211,
-    "timeDay": 1628,
+    "timeDay": 1655,
     "timeWeek": 1298,
-    "timeMonth": 1211,
+    "timeMonth": 1215,
     "timeYear": 1211,
     "dailyMinutesDown": {}
   }
