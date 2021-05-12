@@ -112,17 +112,17 @@
     "url": "https://dastaa.vasudhapower.in/",
     "icon": "https://favicons.githubusercontent.com/dastaa.vasudhapower.in",
     "slug": "dastaa",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1211,
-    "timeDay": 0,
-    "timeWeek": 1628,
-    "timeMonth": 1230,
-    "timeYear": 1211,
+    "time": 1207,
+    "timeDay": 1081,
+    "timeWeek": 1368,
+    "timeMonth": 1224,
+    "timeYear": 1207,
     "dailyMinutesDown": {}
   }
 ]
