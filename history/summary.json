@@ -76,7 +76,7 @@
     "url": "https://vasudhapower.in",
     "icon": "https://favicons.githubusercontent.com/vasudhapower.in",
     "slug": "vasudha-power",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -121,7 +121,7 @@
     "time": 1451,
     "timeDay": 0,
     "timeWeek": 1126,
-    "timeMonth": 1685,
+    "timeMonth": 1703,
     "timeYear": 1451,
     "dailyMinutesDown": {}
   }
