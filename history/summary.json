@@ -112,9 +112,9 @@
     "url": "https://dastaa.vasudhapower.in/",
     "icon": "https://favicons.githubusercontent.com/dastaa.vasudhapower.in",
     "slug": "dastaa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,7 +123,9 @@
     "timeWeek": 1202,
     "timeMonth": 1716,
     "timeYear": 1447,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-14": 0
+    }
   },
   {
     "name": "SevaAtHome",
