@@ -121,7 +121,7 @@
     "time": 1375,
     "timeDay": 1045,
     "timeWeek": 1082,
-    "timeMonth": 1156,
+    "timeMonth": 1157,
     "timeYear": 1375,
     "dailyMinutesDown": {}
   },
@@ -202,9 +202,9 @@
     "url": "https://arise.abbott.com/",
     "icon": "https://favicons.githubusercontent.com/arise.abbott.com",
     "slug": "arise",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -213,6 +213,8 @@
     "timeWeek": 2068,
     "timeMonth": 2081,
     "timeYear": 2081,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-30": 0
+    }
   }
 ]
