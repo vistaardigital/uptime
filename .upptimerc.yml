@@ -25,8 +25,6 @@ sites:
     url: https://app.enablrclm.com/
   - name: Enablr CLM V1
     url: https://cms.enablr.in/
-  - name: Arise
-    url: https://arise.abbott.com/
 assignees:
   - vistaar-drane
   - vistaar-mjani
