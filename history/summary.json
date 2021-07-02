@@ -76,9 +76,9 @@
     "url": "https://vasudhapower.in",
     "icon": "https://favicons.githubusercontent.com/vasudhapower.in",
     "slug": "vasudha-power",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 1267,
     "timeMonth": 1314,
     "timeYear": 1365,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-02": 0
+    }
   },
   {
     "name": "We One",
