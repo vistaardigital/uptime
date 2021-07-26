@@ -60,10 +60,10 @@
     "url": "https://tappri.in/",
     "icon": "https://favicons.githubusercontent.com/tappri.in",
     "slug": "tappri",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 331,
@@ -71,7 +71,9 @@
     "timeWeek": 317,
     "timeMonth": 273,
     "timeYear": 331,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-26": 1
+    }
   },
   {
     "name": "Vasudha Power",
@@ -120,18 +122,18 @@
     "icon": "https://favicons.githubusercontent.com/dastaa.vasudhapower.in",
     "slug": "dastaa",
     "status": "down",
-    "uptime": "97.57%",
+    "uptime": "96.91%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "69.80%",
-    "uptimeMonth": "91.20%",
-    "uptimeYear": "97.57%",
+    "uptimeWeek": "59.14%",
+    "uptimeMonth": "88.75%",
+    "uptimeYear": "96.91%",
     "time": 1329,
     "timeDay": 0,
     "timeWeek": 1079,
     "timeMonth": 1153,
     "timeYear": 1329,
     "dailyMinutesDown": {
-      "2021-07-26": 2,
+      "2021-07-26": 1077,
       "2021-07-25": 1440,
       "2021-07-24": 1440,
       "2021-07-23": 162,
