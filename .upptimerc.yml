@@ -23,6 +23,8 @@ sites:
     url: https://app.enablrclm.com/
   - name: Enablr CLM V1
     url: https://cms.enablr.in/
+  - name: Taranis
+    url: https://taranis.ag/
 assignees:
   - vistaar-drane
   - vistaar-mjani
