@@ -63,7 +63,7 @@
     "status": "up",
     "uptime": "99.06%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.68%",
+    "uptimeWeek": "96.73%",
     "uptimeMonth": "98.88%",
     "uptimeYear": "99.06%",
     "time": 1367,
@@ -197,19 +197,19 @@
     "url": "https://taranis.ag/",
     "icon": "https://favicons.githubusercontent.com/taranis.ag",
     "slug": "taranis",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 378,
-    "timeDay": 0,
-    "timeWeek": 362,
-    "timeMonth": 378,
-    "timeYear": 378,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 375,
+    "timeDay": 325,
+    "timeWeek": 357,
+    "timeMonth": 375,
+    "timeYear": 375,
     "dailyMinutesDown": {
-      "2021-08-18": 0
+      "2021-08-18": 6
     }
   }
 ]
