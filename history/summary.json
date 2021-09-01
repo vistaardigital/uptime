@@ -42,10 +42,10 @@
     "url": "https://activatr.in/",
     "icon": "https://favicons.githubusercontent.com/activatr.in",
     "slug": "activatr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 381,
@@ -53,7 +53,9 @@
     "timeWeek": 326,
     "timeMonth": 322,
     "timeYear": 381,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-01": 1
+    }
   },
   {
     "name": "Vasudha Power",
@@ -105,11 +107,11 @@
     "icon": "https://favicons.githubusercontent.com/dastaa.vasudhapower.in",
     "slug": "dastaa",
     "status": "up",
-    "uptime": "89.83%",
+    "uptime": "89.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "79.35%",
-    "uptimeYear": "89.83%",
+    "uptimeMonth": "80.67%",
+    "uptimeYear": "89.86%",
     "time": 1297,
     "timeDay": 1100,
     "timeWeek": 1139,
@@ -183,9 +185,9 @@
     "url": "https://cms.enablr.in/",
     "icon": "https://favicons.githubusercontent.com/cms.enablr.in",
     "slug": "enablr-clm-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -194,7 +196,9 @@
     "timeWeek": 504,
     "timeMonth": 491,
     "timeYear": 497,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-01": 0
+    }
   },
   {
     "name": "Taranis",
