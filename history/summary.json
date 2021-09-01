@@ -42,19 +42,19 @@
     "url": "https://activatr.in/",
     "icon": "https://favicons.githubusercontent.com/activatr.in",
     "slug": "activatr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 381,
-    "timeDay": 420,
-    "timeWeek": 326,
-    "timeMonth": 322,
-    "timeYear": 381,
+    "time": 382,
+    "timeDay": 432,
+    "timeWeek": 341,
+    "timeMonth": 325,
+    "timeYear": 382,
     "dailyMinutesDown": {
-      "2021-09-01": 1
+      "2021-09-01": 6
     }
   },
   {
@@ -110,7 +110,7 @@
     "uptime": "89.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.67%",
+    "uptimeMonth": "80.69%",
     "uptimeYear": "89.86%",
     "time": 1297,
     "timeDay": 1100,
@@ -185,19 +185,19 @@
     "url": "https://cms.enablr.in/",
     "icon": "https://favicons.githubusercontent.com/cms.enablr.in",
     "slug": "enablr-clm-v1",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 497,
-    "timeDay": 606,
-    "timeWeek": 504,
-    "timeMonth": 491,
-    "timeYear": 497,
+    "time": 499,
+    "timeDay": 603,
+    "timeWeek": 516,
+    "timeMonth": 494,
+    "timeYear": 499,
     "dailyMinutesDown": {
-      "2021-09-01": 0
+      "2021-09-01": 6
     }
   },
   {
