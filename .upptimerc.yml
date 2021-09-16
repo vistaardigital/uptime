@@ -11,8 +11,12 @@ sites:
     url: https://activatr.in/
   - name: Vasudha Power
     url: https://vasudhapower.in
-  - name: We One
+  - name: We One Wordpress
     url: https://weoneapp.com/
+  - name: We One Admin Dashboard
+    url: https://app.weoneapp.com/
+  - name: We One API
+    url: https://api.weoneapp.com/
   - name: Dastaa
     url: https://dastaa.vasudhapower.in/
   - name: SevaAtHome
