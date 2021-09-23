@@ -143,11 +143,11 @@
     "icon": "https://favicons.githubusercontent.com/dastaa.vasudhapower.in",
     "slug": "dastaa",
     "status": "up",
-    "uptime": "91.18%",
+    "uptime": "91.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.18%",
+    "uptimeYear": "91.19%",
     "time": 1276,
     "timeDay": 1293,
     "timeWeek": 1247,
@@ -239,19 +239,19 @@
     "url": "https://taranis.ag/",
     "icon": "https://favicons.githubusercontent.com/taranis.ag",
     "slug": "taranis",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 442,
     "timeDay": 501,
     "timeWeek": 533,
     "timeMonth": 465,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2021-09-23": 11
+      "2021-09-23": 0
     }
   }
 ]
