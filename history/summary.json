@@ -13,7 +13,7 @@
     "time": 1150,
     "timeDay": 1232,
     "timeWeek": 1021,
-    "timeMonth": 1091,
+    "timeMonth": 1088,
     "timeYear": 1150,
     "dailyMinutesDown": {
       "2021-07-12": 23
@@ -24,18 +24,20 @@
     "url": "http://enablrclm.com/",
     "icon": "https://favicons.githubusercontent.com/enablrclm.com",
     "slug": "enablr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 245,
     "timeDay": 286,
     "timeWeek": 140,
-    "timeMonth": 210,
+    "timeMonth": 208,
     "timeYear": 245,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-26": 1
+    }
   },
   {
     "name": "Activatr",
@@ -43,18 +45,19 @@
     "icon": "https://favicons.githubusercontent.com/activatr.in",
     "slug": "activatr",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.48%",
+    "uptimeDay": "9.42%",
+    "uptimeWeek": "87.06%",
+    "uptimeMonth": "97.02%",
+    "uptimeYear": "99.48%",
     "time": 370,
     "timeDay": 0,
     "timeWeek": 136,
-    "timeMonth": 305,
+    "timeMonth": 302,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2021-09-25": 0
+      "2021-09-26": 1248,
+      "2021-09-25": 56
     }
   },
   {
@@ -71,7 +74,7 @@
     "time": 1365,
     "timeDay": 1234,
     "timeWeek": 1468,
-    "timeMonth": 1354,
+    "timeMonth": 1356,
     "timeYear": 1365,
     "dailyMinutesDown": {
       "2021-09-16": 212,
@@ -145,15 +148,15 @@
     "icon": "https://favicons.githubusercontent.com/dastaa.vasudhapower.in",
     "slug": "dastaa",
     "status": "up",
-    "uptime": "91.31%",
+    "uptime": "91.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.31%",
+    "uptimeYear": "91.35%",
     "time": 1275,
     "timeDay": 1048,
     "timeWeek": 1234,
-    "timeMonth": 1149,
+    "timeMonth": 1153,
     "timeYear": 1275,
     "dailyMinutesDown": {
       "2021-08-23": 319,
@@ -186,15 +189,15 @@
     "icon": "https://favicons.githubusercontent.com/sevaathome.com",
     "slug": "seva-at-home",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.36%",
     "time": 3253,
     "timeDay": 3935,
     "timeWeek": 3146,
-    "timeMonth": 3000,
+    "timeMonth": 3001,
     "timeYear": 3253,
     "dailyMinutesDown": {
       "2021-08-02": 966
@@ -214,7 +217,7 @@
     "time": 954,
     "timeDay": 860,
     "timeWeek": 1023,
-    "timeMonth": 958,
+    "timeMonth": 961,
     "timeYear": 954,
     "dailyMinutesDown": {}
   },
@@ -232,7 +235,7 @@
     "time": 492,
     "timeDay": 598,
     "timeWeek": 346,
-    "timeMonth": 483,
+    "timeMonth": 479,
     "timeYear": 492,
     "dailyMinutesDown": {}
   },
@@ -250,7 +253,7 @@
     "time": 444,
     "timeDay": 323,
     "timeWeek": 507,
-    "timeMonth": 461,
+    "timeMonth": 465,
     "timeYear": 444,
     "dailyMinutesDown": {}
   }
