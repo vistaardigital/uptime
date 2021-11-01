@@ -4,11 +4,11 @@
     "url": "https://www.vistaardigital.com",
     "icon": "https://favicons.githubusercontent.com/www.vistaardigital.com",
     "slug": "vistaar-digital",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "85.20%",
-    "uptimeWeek": "97.89%",
-    "uptimeMonth": "99.51%",
+    "uptimeDay": "85.41%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "99.92%",
     "time": 1326,
     "timeDay": 5968,
@@ -16,7 +16,7 @@
     "timeMonth": 2187,
     "timeYear": 1326,
     "dailyMinutesDown": {
-      "2021-11-01": 213,
+      "2021-11-01": 210,
       "2021-07-12": 23
     }
   },
@@ -55,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2021-11-01": 1385,
+      "2021-11-01": 1391,
       "2021-10-31": 1440,
       "2021-10-30": 1440,
       "2021-10-29": 1440,
