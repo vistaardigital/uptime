@@ -25,10 +25,16 @@ sites:
     url: https://app.enablrclm.com/
   - name: Enablr CLM V1
     url: https://cms.enablr.in/
+  - name: Enablr Dev
+    url: https://dev.enablr.in/
   - name: Taranis
     url: https://taranis.ag/
   - name: New Door
     url: https://www.goodhostspaces.com/
+  - name: Saleminnma
+    url: http://saleminnma.com/
+  - name: Branch To Root
+    url: https://branchtoroot.com/
 assignees:
   - vistaar-drane
   - vistaar-mjani
