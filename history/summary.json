@@ -6,7 +6,7 @@
     "slug": "vistaar-digital",
     "status": "up",
     "uptime": "98.77%",
-    "uptimeDay": "72.24%",
+    "uptimeDay": "73.30%",
     "uptimeWeek": "62.49%",
     "uptimeMonth": "91.37%",
     "uptimeYear": "98.77%",
@@ -62,7 +62,7 @@
     "timeMonth": 0,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2021-11-08": 350,
+      "2021-11-08": 365,
       "2021-11-07": 1440,
       "2021-11-06": 1440,
       "2021-11-05": 1440,
@@ -307,6 +307,24 @@
     "timeWeek": 536,
     "timeMonth": 470,
     "timeYear": 452,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "New Door",
+    "url": "https://www.goodhostspaces.com/",
+    "icon": "https://favicons.githubusercontent.com/www.goodhostspaces.com",
+    "slug": "new-door",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 203,
+    "timeDay": 203,
+    "timeWeek": 203,
+    "timeMonth": 203,
+    "timeYear": 203,
     "dailyMinutesDown": {}
   }
 ]
