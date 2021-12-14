@@ -32,19 +32,19 @@
     "url": "http://enablrclm.com/",
     "icon": "https://favicons.githubusercontent.com/enablrclm.com",
     "slug": "enablr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 249,
-    "timeDay": 317,
-    "timeWeek": 278,
-    "timeMonth": 267,
-    "timeYear": 249,
+    "time": 248,
+    "timeDay": 218,
+    "timeWeek": 259,
+    "timeMonth": 262,
+    "timeYear": 248,
     "dailyMinutesDown": {
-      "2021-12-14": 1
+      "2021-12-14": 10
     }
   },
   {
@@ -64,7 +64,7 @@
     "timeMonth": 0,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2021-12-14": 558,
+      "2021-12-14": 567,
       "2021-12-13": 1440,
       "2021-12-12": 1440,
       "2021-12-11": 1440,
@@ -317,19 +317,19 @@
     "url": "https://cms.enablr.in/",
     "icon": "https://favicons.githubusercontent.com/cms.enablr.in",
     "slug": "enablr-clm-v1",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 519,
-    "timeDay": 617,
-    "timeWeek": 597,
-    "timeMonth": 565,
-    "timeYear": 519,
+    "time": 518,
+    "timeDay": 452,
+    "timeWeek": 558,
+    "timeMonth": 556,
+    "timeYear": 518,
     "dailyMinutesDown": {
-      "2021-12-14": 0
+      "2021-12-14": 9
     }
   },
   {
