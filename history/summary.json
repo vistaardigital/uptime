@@ -64,7 +64,8 @@
     "timeMonth": 0,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2021-12-16": 1430,
+      "2021-12-17": 3,
+      "2021-12-16": 1440,
       "2021-12-15": 1440,
       "2021-12-14": 1440,
       "2021-12-13": 1440,
@@ -400,18 +401,19 @@
     "icon": "https://favicons.githubusercontent.com/saleminnma.com",
     "slug": "saleminnma",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 2328,
     "timeDay": 7923,
     "timeWeek": 3509,
     "timeMonth": 2445,
     "timeYear": 2328,
     "dailyMinutesDown": {
-      "2021-12-16": 0
+      "2021-12-17": 4,
+      "2021-12-16": 10
     }
   },
   {
