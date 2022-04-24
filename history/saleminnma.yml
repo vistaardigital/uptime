@@ -1,7 +1,7 @@
 url: http://saleminnma.com/
-status: up
-code: 200
-responseTime: 2523
-lastUpdated: 2022-04-24T23:06:05.436Z
+status: down
+code: 500
+responseTime: 6655
+lastUpdated: 2022-04-24T23:09:38.419Z
 startTime: Mon Nov 08 2021 16:53:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
