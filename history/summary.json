@@ -215,7 +215,7 @@
     "timeMonth": 0,
     "timeYear": 1100,
     "dailyMinutesDown": {
-      "2022-05-25": 719,
+      "2022-05-25": 730,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
@@ -284,18 +284,18 @@
     "icon": "https://favicons.githubusercontent.com/app.weoneapp.com",
     "slug": "we-one-admin-dashboard",
     "status": "down",
-    "uptime": "77.84%",
+    "uptime": "77.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "77.84%",
+    "uptimeYear": "77.83%",
     "time": 908,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 908,
     "dailyMinutesDown": {
-      "2022-05-25": 719,
+      "2022-05-25": 730,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
@@ -364,18 +364,18 @@
     "icon": "https://favicons.githubusercontent.com/api.weoneapp.com",
     "slug": "we-one-api",
     "status": "down",
-    "uptime": "77.84%",
+    "uptime": "77.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "77.84%",
+    "uptimeYear": "77.83%",
     "time": 880,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 880,
     "dailyMinutesDown": {
-      "2022-05-25": 719,
+      "2022-05-25": 730,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
@@ -455,7 +455,7 @@
     "timeMonth": 0,
     "timeYear": 1145,
     "dailyMinutesDown": {
-      "2022-05-25": 719,
+      "2022-05-25": 730,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
@@ -885,9 +885,9 @@
     "url": "https://ionexchangeglobal.com/",
     "icon": "https://favicons.githubusercontent.com/ionexchangeglobal.com",
     "slug": "ion-exchange-global",
-    "status": "up",
+    "status": "down",
     "uptime": "97.00%",
-    "uptimeDay": "87.67%",
+    "uptimeDay": "87.63%",
     "uptimeWeek": "97.00%",
     "uptimeMonth": "97.00%",
     "uptimeYear": "97.00%",
@@ -897,7 +897,7 @@
     "timeMonth": 9894,
     "timeYear": 9894,
     "dailyMinutesDown": {
-      "2022-05-25": 178
+      "2022-05-25": 179
     }
   }
 ]
