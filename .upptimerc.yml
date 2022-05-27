@@ -31,10 +31,6 @@ sites:
     url: https://taranis.ag/
   - name: New Door
     url: https://www.goodhostspaces.com/
-  - name: Saleminnma
-    url: http://saleminnma.com/
-  - name: Branch To Root
-    url: https://branchtoroot.com/
   - name: Element Life
     url: https://elemntlife.com/
   - name: Ion Exchange Global
@@ -42,6 +38,7 @@ sites:
 assignees:
   - vistaar-drane
   - vistaar-mjani
+  - vistaar-moza
 
 status-website:
   cname: uptime.showdigital.in
