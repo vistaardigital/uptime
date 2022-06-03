@@ -215,7 +215,7 @@
     "timeMonth": 0,
     "timeYear": 1100,
     "dailyMinutesDown": {
-      "2022-06-03": 1180,
+      "2022-06-03": 1186,
       "2022-06-02": 1440,
       "2022-06-01": 1440,
       "2022-05-31": 1440,
@@ -304,7 +304,7 @@
     "timeMonth": 0,
     "timeYear": 908,
     "dailyMinutesDown": {
-      "2022-06-03": 1180,
+      "2022-06-03": 1186,
       "2022-06-02": 1440,
       "2022-06-01": 1440,
       "2022-05-31": 1440,
@@ -393,7 +393,7 @@
     "timeMonth": 0,
     "timeYear": 880,
     "dailyMinutesDown": {
-      "2022-06-03": 1180,
+      "2022-06-03": 1186,
       "2022-06-02": 1440,
       "2022-06-01": 1440,
       "2022-05-31": 1440,
@@ -482,7 +482,7 @@
     "timeMonth": 0,
     "timeYear": 1144,
     "dailyMinutesDown": {
-      "2022-06-03": 1180,
+      "2022-06-03": 1186,
       "2022-06-02": 1440,
       "2022-06-01": 1440,
       "2022-05-31": 1440,
@@ -724,19 +724,19 @@
     "url": "https://ionexchangeglobal.com/",
     "icon": "https://favicons.githubusercontent.com/ionexchangeglobal.com",
     "slug": "ion-exchange-global",
-    "status": "down",
-    "uptime": "99.08%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "99.08%",
-    "time": 8103,
-    "timeDay": 2426,
-    "timeWeek": 1914,
-    "timeMonth": 8103,
-    "timeYear": 8103,
+    "status": "up",
+    "uptime": "99.05%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.05%",
+    "time": 7880,
+    "timeDay": 2697,
+    "timeWeek": 2046,
+    "timeMonth": 7880,
+    "timeYear": 7880,
     "dailyMinutesDown": {
-      "2022-06-03": 0,
+      "2022-06-03": 6,
       "2022-05-25": 178
     }
   }
