@@ -211,7 +211,7 @@
     "timeMonth": 0,
     "timeYear": 1100,
     "dailyMinutesDown": {
-      "2022-07-20": 726,
+      "2022-07-20": 738,
       "2022-07-19": 1440,
       "2022-07-18": 1440,
       "2022-07-17": 1440,
@@ -347,7 +347,7 @@
     "timeMonth": 0,
     "timeYear": 908,
     "dailyMinutesDown": {
-      "2022-07-20": 726,
+      "2022-07-20": 738,
       "2022-07-19": 1440,
       "2022-07-18": 1440,
       "2022-07-17": 1440,
@@ -483,7 +483,7 @@
     "timeMonth": 0,
     "timeYear": 880,
     "dailyMinutesDown": {
-      "2022-07-20": 726,
+      "2022-07-20": 738,
       "2022-07-19": 1440,
       "2022-07-18": 1440,
       "2022-07-17": 1440,
@@ -867,19 +867,19 @@
     "url": "https://ionexchangeglobal.com/",
     "icon": "https://favicons.githubusercontent.com/ionexchangeglobal.com",
     "slug": "ion-exchange-global",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
-    "time": 4524,
-    "timeDay": 1779,
-    "timeWeek": 2498,
-    "timeMonth": 2544,
-    "timeYear": 4524,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.78%",
+    "time": 4570,
+    "timeDay": 3816,
+    "timeWeek": 3098,
+    "timeMonth": 2706,
+    "timeYear": 4570,
     "dailyMinutesDown": {
-      "2022-07-20": 0,
+      "2022-07-20": 11,
       "2022-05-25": 178
     }
   }
