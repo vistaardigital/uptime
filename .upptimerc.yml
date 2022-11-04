@@ -11,22 +11,16 @@ sites:
     url: https://activatr.in/
   - name: Vasudha Power
     url: https://vasudhapower.in
-  - name: We One Wordpress
-    url: https://weoneapp.com/
-  - name: We One Admin Dashboard
-    url: https://app.weoneapp.com/
-  - name: We One API
-    url: https://api.weoneapp.com/
-  - name: Dastaa
-    url: https://dastaa.vasudhapower.in/
   - name: SevaAtHome
     url: https://sevaathome.com/
   - name: Enablr CLM
     url: https://app.enablrclm.com/
-  - name: Enablr Dev
-    url: https://dev.enablr.in/
+  - name: Enablr CLM Dev
+    url: https://dev.enablrclm.com/
   - name: Element Life
     url: https://elemntlife.com/
+  - name: Jenkins Build
+    url: https://abbott.build.showdigital.in/
 assignees:
   - vistaar-drane
   - vistaar-mjani
