@@ -19,6 +19,8 @@ sites:
     url: https://dev.enablrclm.com/
   - name: Element Life
     url: https://elemntlife.com/
+  - name: The Fairway Agency
+    url: https://thefairwayagency.com/
 assignees:
   - vistaar-drane
   - vistaar-mjani
