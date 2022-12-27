@@ -45,7 +45,7 @@
     "icon": "https://favicons.githubusercontent.com/activatr.in",
     "slug": "activatr",
     "status": "up",
-    "uptime": "85.76%",
+    "uptime": "85.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -145,18 +145,20 @@
     "url": "https://dev.enablrclm.com/",
     "icon": "https://favicons.githubusercontent.com/dev.enablrclm.com",
     "slug": "enablr-clm-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 989,
-    "timeDay": 1031,
+    "timeDay": 1000,
     "timeWeek": 975,
-    "timeMonth": 985,
+    "timeMonth": 984,
     "timeYear": 989,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-27": 0
+    }
   },
   {
     "name": "Element Life",
