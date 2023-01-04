@@ -7,20 +7,30 @@ sites:
     url: https://www.vistaardigital.com
   - name: Enablr
     url: https://enablrclm.com/
-  - name: Activatr
-    url: https://activatr.in/
-  - name: Vasudha Power
-    url: https://vasudhapower.in
-  - name: SevaAtHome
-    url: https://sevaathome.com/
   - name: Enablr CLM
     url: https://app.enablrclm.com/
   - name: Enablr CLM Dev
     url: https://dev.enablrclm.com/
+  - name: Activatr
+    url: https://activatr.in/
+  - name: Vasudha Power
+    url: https://vasudhapower.in
+  - name: Energy Transition Platform
+    url: https://www.energytransitionplatform.org/
+  - name: GHG Platform India
+    url: https://www.ghgplatform-india.org/
+  - name: NIC ICED
+    url: http://icednic.showdigital.in
+  - name: SevaAtHome
+    url: https://sevaathome.com/
   - name: Element Life
     url: https://elemntlife.com/
+  - name: My Element Life
+    url: https://my.elemntlife.com/
   - name: The Fairway Agency
     url: https://thefairwayagency.com/
+  - name: Single Dose
+    url: https://singledose.com/
 assignees:
   - vistaar-drane
   - vistaar-mjani
