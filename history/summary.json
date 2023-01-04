@@ -169,19 +169,19 @@
     "url": "http://icednic.showdigital.in",
     "icon": "https://favicons.githubusercontent.com/icednic.showdigital.in",
     "slug": "nic-iced",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 1470,
-    "timeDay": 1470,
-    "timeWeek": 1470,
-    "timeMonth": 1470,
-    "timeYear": 1470,
+    "status": "up",
+    "uptime": "97.81%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "97.81%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "97.81%",
+    "time": 1510,
+    "timeDay": 1510,
+    "timeWeek": 1510,
+    "timeMonth": 1510,
+    "timeYear": 1510,
     "dailyMinutesDown": {
-      "2023-01-04": 0
+      "2023-01-04": 7
     }
   },
   {
