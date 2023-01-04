@@ -29,8 +29,6 @@ sites:
     url: https://my.elemntlife.com/
   - name: The Fairway Agency
     url: https://thefairwayagency.com/
-  - name: Single Dose
-    url: https://singledose.com/
 assignees:
   - vistaar-drane
   - vistaar-mjani
