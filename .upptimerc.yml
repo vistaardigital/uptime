@@ -23,8 +23,6 @@ sites:
     url: https://sevaathome.com/
   - name: Element Life
     url: https://elemntlife.com/
-  - name: My Element Life
-    url: https://my.elemntlife.com/
   - name: The Fairway Agency
     url: https://thefairwayagency.com/
 assignees:
