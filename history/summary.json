@@ -83,7 +83,7 @@
     "icon": "https://favicons.githubusercontent.com/activatr.in",
     "slug": "activatr",
     "status": "up",
-    "uptime": "86.06%",
+    "uptime": "86.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -248,19 +248,19 @@
     "url": "https://thefairwayagency.com/",
     "icon": "https://favicons.githubusercontent.com/thefairwayagency.com",
     "slug": "the-fairway-agency",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 306,
     "timeDay": 435,
     "timeWeek": 341,
     "timeMonth": 315,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2023-01-09": 7
+      "2023-01-09": 0
     }
   }
 ]
