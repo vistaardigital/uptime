@@ -5,7 +5,7 @@
     "icon": "https://favicons.githubusercontent.com/www.vistaardigital.com",
     "slug": "vistaar-digital",
     "status": "up",
-    "uptime": "99.57%",
+    "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -83,7 +83,7 @@
     "icon": "https://favicons.githubusercontent.com/activatr.in",
     "slug": "activatr",
     "status": "up",
-    "uptime": "86.05%",
+    "uptime": "86.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -248,9 +248,9 @@
     "url": "https://thefairwayagency.com/",
     "icon": "https://favicons.githubusercontent.com/thefairwayagency.com",
     "slug": "the-fairway-agency",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -259,6 +259,8 @@
     "timeWeek": 311,
     "timeMonth": 307,
     "timeYear": 301,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-09": 0
+    }
   }
 ]
