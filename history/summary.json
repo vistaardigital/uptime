@@ -248,19 +248,19 @@
     "url": "https://thefairwayagency.com/",
     "icon": "https://favicons.githubusercontent.com/thefairwayagency.com",
     "slug": "the-fairway-agency",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 306,
-    "timeDay": 435,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 307,
+    "timeDay": 404,
     "timeWeek": 341,
-    "timeMonth": 315,
-    "timeYear": 306,
+    "timeMonth": 316,
+    "timeYear": 307,
     "dailyMinutesDown": {
-      "2023-01-09": 0
+      "2023-01-09": 7
     }
   }
 ]
