@@ -25,6 +25,8 @@ sites:
     url: https://elemntlife.com/
   - name: The Fairway Agency
     url: https://thefairwayagency.com/
+  - name: India Climate & Energy Dashboard
+    url: https://iced.niti.gov.in
 assignees:
   - vistaar-drane
   - vistaar-mjani
