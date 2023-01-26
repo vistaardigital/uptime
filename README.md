@@ -1,4 +1,4 @@
-# [📈 Live Status](https://http://uptime.showdigital.in/): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://http://uptime.showdigital.in/): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [Vistaar Digital](https://www.vistaardigital.com), powered by [Upptime](https://github.com/upptime/upptime).
 
