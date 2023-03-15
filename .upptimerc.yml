@@ -5,12 +5,12 @@ repo: uptime # Your GitHub repository name
 sites:
   - name: Vistaar Digital
     url: https://www.vistaardigital.com
-  - name: Enablr
-    url: https://enablrclm.com/
-  - name: Enablr CLM
-    url: https://app.enablrclm.com/
-  - name: Enablr CLM Dev
-    url: https://dev.enablrclm.com/
+  - name: Enablr Sales
+    url: https://enablrsales.com/
+  - name: Enablr Sales Admin
+    url: https://app.enablrsales.com/
+  - name: Enablr Sales Dev Admin
+    url: https://upgrade.enablrsales.com/
   - name: Activatr
     url: https://activatr.in/
   - name: Vasudha Power
@@ -29,6 +29,7 @@ assignees:
   - vistaar-drane
   - vistaar-mjani
   - vistaar-moza
+  - vistaar-btuscano
 
 status-website:
   cname: uptime.showdigital.in
