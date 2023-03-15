@@ -9,8 +9,6 @@ sites:
     url: https://enablrsales.com/
   - name: Enablr Sales Admin
     url: https://app.enablrsales.com/
-  - name: Enablr Sales Dev Admin
-    url: https://upgrade.enablrsales.com/
   - name: Activatr
     url: https://activatr.in/
   - name: Vasudha Power
