@@ -8,7 +8,7 @@
     "uptime": "91.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "39.71%",
+    "uptimeMonth": "40.03%",
     "uptimeYear": "83.27%",
     "time": 1863,
     "timeDay": 0,
@@ -124,9 +124,9 @@
     "url": "https://activatr.in/",
     "icon": "https://favicons.githubusercontent.com/activatr.in",
     "slug": "activatr",
-    "status": "up",
+    "status": "down",
     "uptime": "88.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -136,6 +136,7 @@
     "timeMonth": 963,
     "timeYear": 936,
     "dailyMinutesDown": {
+      "2023-05-27": 0,
       "2023-02-23": 18,
       "2023-01-25": 19
     }
