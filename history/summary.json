@@ -5,10 +5,10 @@
     "icon": "https://favicons.githubusercontent.com/www.vistaardigital.com",
     "slug": "vistaar-digital",
     "status": "down",
-    "uptime": "91.89%",
+    "uptime": "91.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "56.15%",
+    "uptimeMonth": "57.20%",
     "uptimeYear": "83.27%",
     "time": 1872,
     "timeDay": 0,
@@ -125,7 +125,7 @@
     "icon": "https://favicons.githubusercontent.com/activatr.in",
     "slug": "activatr",
     "status": "up",
-    "uptime": "88.56%",
+    "uptime": "88.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.32%",
     "uptimeMonth": "98.92%",
@@ -172,9 +172,9 @@
     "url": "https://www.energytransitionplatform.org/",
     "icon": "https://favicons.githubusercontent.com/www.energytransitionplatform.org",
     "slug": "energy-transition-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -183,7 +183,9 @@
     "timeWeek": 2032,
     "timeMonth": 2121,
     "timeYear": 1907,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-02": 0
+    }
   },
   {
     "name": "GHG Platform India",
