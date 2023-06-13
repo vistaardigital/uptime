@@ -8,7 +8,7 @@
     "uptime": "92.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.36%",
+    "uptimeMonth": "93.37%",
     "uptimeYear": "83.27%",
     "time": 1889,
     "timeDay": 0,
@@ -174,19 +174,19 @@
     "url": "https://www.energytransitionplatform.org/",
     "icon": "https://favicons.githubusercontent.com/www.energytransitionplatform.org",
     "slug": "energy-transition-platform",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1988,
-    "timeDay": 1769,
-    "timeWeek": 2258,
-    "timeMonth": 2354,
-    "timeYear": 1988,
+    "time": 2101,
+    "timeDay": 8923,
+    "timeWeek": 3985,
+    "timeMonth": 2770,
+    "timeYear": 2101,
     "dailyMinutesDown": {
-      "2023-06-13": 0
+      "2023-06-13": 6
     }
   },
   {
