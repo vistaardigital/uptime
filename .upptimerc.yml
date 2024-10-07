@@ -11,21 +11,19 @@ sites:
     url: https://app.enablrsales.com/
   - name: Activatr
     url: https://activatr.in/
-  - name: Vasudha Power
-    url: https://vasudhapower.in
-  - name: Energy Transition Platform
-    url: https://www.energytransitionplatform.org/
-  - name: GHG Platform India
-    url: https://www.ghgplatform-india.org/
-  - name: Element Life
-    url: https://elemntlife.com/
-  - name: The Fairway Agency
-    url: https://thefairwayagency.com/
+  - name: Taranis
+    url: https://taranis.showdigital.in/  
+  - name: Airlitz
+    url: https://airlitz.showdigital.in/
+  - name: CMS Ciplamedflix
+    url: https://cms.ciplamedflix.com/
+
 assignees:
   - vistaar-drane
   - vistaar-mjani
   - vistaar-moza
   - vistaar-btuscano
+  - vistaar-akhan
 
 status-website:
   cname: uptime.showdigital.in
