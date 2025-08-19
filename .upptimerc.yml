@@ -11,10 +11,8 @@ sites:
     url: https://app.enablrsales.com/
   - name: Activatr
     url: https://activatr.in/
-  - name: Taranis
-    url: https://taranis.showdigital.in/  
-  - name: Airlitz
-    url: https://airlitz.showdigital.in/
+  - name: Pharma Sales
+    url: https://salesdashboard.enablrsales.com/
   - name: CMS Ciplamedflix
     url: https://cms.ciplamedflix.com/
 
@@ -22,8 +20,7 @@ assignees:
   - vistaar-drane
   - vistaar-mjani
   - vistaar-moza
-  - vistaar-btuscano
-  - vistaar-akhan
+  - vistaar-gsalvi
 
 status-website:
   cname: uptime.showdigital.in
