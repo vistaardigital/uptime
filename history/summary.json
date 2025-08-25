@@ -4,19 +4,19 @@
     "url": "https://www.vistaardigital.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.vistaardigital.com.ico",
     "slug": "vistaar-digital",
-    "status": "down",
+    "status": "up",
     "uptime": "96.02%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2448,
-    "timeDay": 2905,
-    "timeWeek": 4863,
-    "timeMonth": 4863,
-    "timeYear": 4863,
+    "time": 2591,
+    "timeDay": 12930,
+    "timeWeek": 7124,
+    "timeMonth": 7124,
+    "timeYear": 7124,
     "dailyMinutesDown": {
-      "2025-08-25": 2
+      "2025-08-25": 9
     }
   },
   {
@@ -61,10 +61,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/activatr.in.ico",
     "slug": "activatr",
     "status": "down",
-    "uptime": "94.39%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "94.38%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1021,
     "timeDay": 2174,
@@ -72,7 +72,7 @@
     "timeMonth": 3618,
     "timeYear": 3618,
     "dailyMinutesDown": {
-      "2025-08-25": 0
+      "2025-08-25": 9
     }
   },
   {
