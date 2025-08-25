@@ -4,19 +4,19 @@
     "url": "https://www.vistaardigital.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.vistaardigital.com.ico",
     "slug": "vistaar-digital",
-    "status": "down",
+    "status": "up",
     "uptime": "96.02%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 2594,
-    "timeDay": 12930,
-    "timeWeek": 7124,
-    "timeMonth": 7124,
-    "timeYear": 7124,
+    "time": 2609,
+    "timeDay": 10026,
+    "timeWeek": 6801,
+    "timeMonth": 6801,
+    "timeYear": 6801,
     "dailyMinutesDown": {
-      "2025-08-25": 19
+      "2025-08-25": 23
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://enablrsales.com/",
     "icon": "https://icons.duckduckgo.com/ip3/enablrsales.com.ico",
     "slug": "enablr-sales",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 979,
-    "timeDay": 1050,
-    "timeWeek": 1238,
-    "timeMonth": 1238,
-    "timeYear": 1238,
+    "time": 974,
+    "timeDay": 867,
+    "timeWeek": 1159,
+    "timeMonth": 1159,
+    "timeYear": 1159,
     "dailyMinutesDown": {
-      "2025-08-25": 1
+      "2025-08-25": 5
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://activatr.in/",
     "icon": "https://icons.duckduckgo.com/ip3/activatr.in.ico",
     "slug": "activatr",
-    "status": "down",
+    "status": "up",
     "uptime": "94.38%",
-    "uptimeDay": "97.28%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.98%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 1021,
-    "timeDay": 2174,
-    "timeWeek": 3618,
-    "timeMonth": 3618,
-    "timeYear": 3618,
+    "time": 1030,
+    "timeDay": 2353,
+    "timeWeek": 3462,
+    "timeMonth": 3462,
+    "timeYear": 3462,
     "dailyMinutesDown": {
-      "2025-08-25": 39
+      "2025-08-25": 43
     }
   },
   {
