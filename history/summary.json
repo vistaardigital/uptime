@@ -10,11 +10,11 @@
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 2609,
-    "timeDay": 10026,
-    "timeWeek": 6801,
-    "timeMonth": 6801,
-    "timeYear": 6801,
+    "time": 2614,
+    "timeDay": 10159,
+    "timeWeek": 6452,
+    "timeMonth": 6452,
+    "timeYear": 6452,
     "dailyMinutesDown": {
       "2025-08-25": 23
     }
@@ -26,18 +26,16 @@
     "slug": "enablr-sales",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 974,
-    "timeDay": 867,
-    "timeWeek": 1159,
-    "timeMonth": 1159,
-    "timeYear": 1159,
-    "dailyMinutesDown": {
-      "2025-08-25": 5
-    }
+    "time": 986,
+    "timeDay": 1198,
+    "timeWeek": 1228,
+    "timeMonth": 1228,
+    "timeYear": 1228,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Enablr Sales Admin",
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1025,
-    "timeDay": 1178,
-    "timeWeek": 1252,
-    "timeMonth": 1252,
-    "timeYear": 1252,
+    "time": 1028,
+    "timeDay": 1194,
+    "timeWeek": 1244,
+    "timeMonth": 1244,
+    "timeYear": 1244,
     "dailyMinutesDown": {}
   },
   {
@@ -63,16 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/activatr.in.ico",
     "slug": "activatr",
     "status": "up",
-    "uptime": "94.38%",
+    "uptime": "94.39%",
     "uptimeDay": "96.98%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 1030,
-    "timeDay": 2353,
-    "timeWeek": 3462,
-    "timeMonth": 3462,
-    "timeYear": 3462,
+    "time": 1043,
+    "timeDay": 3099,
+    "timeWeek": 3488,
+    "timeMonth": 3488,
+    "timeYear": 3488,
     "dailyMinutesDown": {
       "2025-08-25": 43
     }
@@ -88,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1190,
-    "timeDay": 1146,
-    "timeWeek": 1190,
-    "timeMonth": 1190,
-    "timeYear": 1190,
+    "time": 1189,
+    "timeDay": 1179,
+    "timeWeek": 1189,
+    "timeMonth": 1189,
+    "timeYear": 1189,
     "dailyMinutesDown": {}
   },
   {
@@ -106,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 827,
-    "timeDay": 1094,
-    "timeWeek": 827,
-    "timeMonth": 827,
-    "timeYear": 827,
+    "time": 820,
+    "timeDay": 775,
+    "timeWeek": 820,
+    "timeMonth": 820,
+    "timeYear": 820,
     "dailyMinutesDown": {}
   }
 ]
