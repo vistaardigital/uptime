@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.vistaardigital.com.ico",
     "slug": "vistaar-digital",
     "status": "up",
-    "uptime": "96.03%",
+    "uptime": "96.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 2647,
-    "timeDay": 3525,
-    "timeWeek": 5563,
-    "timeMonth": 5586,
-    "timeYear": 5586,
+    "time": 2653,
+    "timeDay": 2984,
+    "timeWeek": 5561,
+    "timeMonth": 5413,
+    "timeYear": 5413,
     "dailyMinutesDown": {
       "2025-08-25": 23
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1048,
-    "timeDay": 1588,
-    "timeWeek": 1571,
-    "timeMonth": 1487,
-    "timeYear": 1487,
+    "time": 1056,
+    "timeDay": 1616,
+    "timeWeek": 1635,
+    "timeMonth": 1497,
+    "timeYear": 1497,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1045,
-    "timeDay": 1163,
-    "timeWeek": 1254,
-    "timeMonth": 1267,
-    "timeYear": 1267,
+    "time": 1047,
+    "timeDay": 1164,
+    "timeWeek": 1253,
+    "timeMonth": 1259,
+    "timeYear": 1259,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 1094,
-    "timeDay": 3804,
-    "timeWeek": 2986,
-    "timeMonth": 3440,
-    "timeYear": 3440,
+    "time": 1108,
+    "timeDay": 3691,
+    "timeWeek": 3180,
+    "timeMonth": 3459,
+    "timeYear": 3459,
     "dailyMinutesDown": {
       "2025-08-25": 43
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1214,
-    "timeDay": 1133,
-    "timeWeek": 1212,
-    "timeMonth": 1214,
-    "timeYear": 1214,
+    "time": 1209,
+    "timeDay": 1149,
+    "timeWeek": 1219,
+    "timeMonth": 1209,
+    "timeYear": 1209,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 835,
-    "timeDay": 845,
-    "timeWeek": 879,
-    "timeMonth": 835,
-    "timeYear": 835,
+    "time": 831,
+    "timeDay": 783,
+    "timeWeek": 872,
+    "timeMonth": 831,
+    "timeYear": 831,
     "dailyMinutesDown": {}
   }
 ]
