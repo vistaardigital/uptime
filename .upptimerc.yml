@@ -15,10 +15,10 @@ sites:
     url: https://salesdashboard.enablrsales.com/
   - name: CMS Ciplamedflix
     url: https://cms.ciplamedflix.com/
-  - name: Kerala GHG
-    url: https://climatechange.envt.kerala.gov.in/
-  - name: GEDA
-    url: https://climatetracker.gujarat.gov.in/
+  # - name: Kerala GHG
+  #   url: https://climatechange.envt.kerala.gov.in/
+  # - name: GEDA
+  #   url: https://climatetracker.gujarat.gov.in/
   - name: Vasudha USA
     url: https://vasudhausa.org/
   - name: Energy Transition Platform
