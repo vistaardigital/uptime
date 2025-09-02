@@ -134,19 +134,19 @@
     "url": "https://www.energytransitionplatform.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.energytransitionplatform.org.ico",
     "slug": "energy-transition-platform",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 2077,
-    "timeDay": 702,
-    "timeWeek": 702,
-    "timeMonth": 702,
-    "timeYear": 702,
+    "timeDay": 1161,
+    "timeWeek": 1161,
+    "timeMonth": 1161,
+    "timeYear": 1161,
     "dailyMinutesDown": {
-      "2025-09-02": 0
+      "2025-09-02": 7
     }
   },
   {
