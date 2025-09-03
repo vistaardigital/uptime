@@ -24,18 +24,20 @@
     "url": "https://enablrsales.com/",
     "icon": "https://icons.duckduckgo.com/ip3/enablrsales.com.ico",
     "slug": "enablr-sales",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1117,
-    "timeDay": 2875,
-    "timeWeek": 2135,
-    "timeMonth": 1681,
-    "timeYear": 1681,
-    "dailyMinutesDown": {}
+    "time": 1111,
+    "timeDay": 1794,
+    "timeWeek": 1957,
+    "timeMonth": 1624,
+    "timeYear": 1624,
+    "dailyMinutesDown": {
+      "2025-09-03": 0
+    }
   },
   {
     "name": "Enablr Sales Admin",
