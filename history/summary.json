@@ -24,19 +24,19 @@
     "url": "https://enablrsales.com/",
     "icon": "https://icons.duckduckgo.com/ip3/enablrsales.com.ico",
     "slug": "enablr-sales",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1111,
-    "timeDay": 1794,
-    "timeWeek": 1957,
-    "timeMonth": 1624,
-    "timeYear": 1624,
+    "time": 1144,
+    "timeDay": 2349,
+    "timeWeek": 2124,
+    "timeMonth": 1726,
+    "timeYear": 1726,
     "dailyMinutesDown": {
-      "2025-09-03": 0
+      "2025-09-03": 7
     }
   },
   {
