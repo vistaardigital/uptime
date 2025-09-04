@@ -1,7 +1,7 @@
 url: https://www.energytransitionplatform.org/
-status: up
-code: 200
-responseTime: 1744
-lastUpdated: 2025-09-03T23:07:17.851Z
+status: down
+code: 415
+responseTime: 356
+lastUpdated: 2025-09-04T17:30:27.500Z
 startTime: 2023-01-04T06:27:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
