@@ -31,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1151,
-    "timeDay": 1947,
+    "timeDay": 1671,
     "timeWeek": 2008,
     "timeMonth": 1723,
     "timeYear": 1723,
@@ -134,18 +134,20 @@
     "url": "https://www.energytransitionplatform.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.energytransitionplatform.org.ico",
     "slug": "energy-transition-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2132,
-    "timeDay": 6142,
-    "timeWeek": 2876,
-    "timeMonth": 2876,
-    "timeYear": 2876,
-    "dailyMinutesDown": {}
+    "time": 2120,
+    "timeDay": 1050,
+    "timeWeek": 2516,
+    "timeMonth": 2516,
+    "timeYear": 2516,
+    "dailyMinutesDown": {
+      "2025-09-04": 0
+    }
   },
   {
     "name": "GHG Platform India",
