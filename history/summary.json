@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 2749,
-    "timeDay": 5404,
-    "timeWeek": 4247,
-    "timeMonth": 4962,
-    "timeYear": 4962,
+    "time": 2759,
+    "timeDay": 3566,
+    "timeWeek": 4275,
+    "timeMonth": 4904,
+    "timeYear": 4904,
     "dailyMinutesDown": {
       "2025-08-25": 23
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1210,
-    "timeDay": 2826,
-    "timeWeek": 2307,
-    "timeMonth": 1820,
-    "timeYear": 1820,
+    "time": 1222,
+    "timeDay": 2117,
+    "timeWeek": 2218,
+    "timeMonth": 1833,
+    "timeYear": 1833,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1072,
-    "timeDay": 1288,
-    "timeWeek": 1291,
-    "timeMonth": 1266,
-    "timeYear": 1266,
+    "time": 1079,
+    "timeDay": 1637,
+    "timeWeek": 1349,
+    "timeMonth": 1284,
+    "timeYear": 1284,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 1182,
-    "timeDay": 2290,
-    "timeWeek": 2608,
-    "timeMonth": 3191,
-    "timeYear": 3191,
+    "time": 1192,
+    "timeDay": 2851,
+    "timeWeek": 2746,
+    "timeMonth": 3176,
+    "timeYear": 3176,
     "dailyMinutesDown": {
       "2025-08-25": 43
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1226,
-    "timeDay": 1385,
-    "timeWeek": 1276,
-    "timeMonth": 1226,
-    "timeYear": 1226,
+    "time": 1241,
+    "timeDay": 1560,
+    "timeWeek": 1307,
+    "timeMonth": 1241,
+    "timeYear": 1241,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 795,
-    "timeDay": 784,
-    "timeWeek": 716,
-    "timeMonth": 795,
-    "timeYear": 795,
+    "time": 796,
+    "timeDay": 815,
+    "timeWeek": 740,
+    "timeMonth": 796,
+    "timeYear": 796,
     "dailyMinutesDown": {}
   },
   {
@@ -122,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 466,
-    "timeDay": 455,
-    "timeWeek": 444,
-    "timeMonth": 466,
-    "timeYear": 466,
+    "time": 469,
+    "timeDay": 492,
+    "timeWeek": 461,
+    "timeMonth": 469,
+    "timeYear": 469,
     "dailyMinutesDown": {}
   },
   {
@@ -136,18 +136,16 @@
     "slug": "energy-transition-platform",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2067,
-    "timeDay": 1170,
-    "timeWeek": 1837,
-    "timeMonth": 1837,
-    "timeYear": 1837,
-    "dailyMinutesDown": {
-      "2025-09-08": 7
-    }
+    "time": 2059,
+    "timeDay": 1034,
+    "timeWeek": 1851,
+    "timeMonth": 1789,
+    "timeYear": 1789,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GHG Platform India",
@@ -161,10 +159,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 577,
-    "timeDay": 507,
-    "timeWeek": 472,
-    "timeMonth": 472,
-    "timeYear": 472,
+    "timeDay": 543,
+    "timeWeek": 503,
+    "timeMonth": 481,
+    "timeYear": 481,
     "dailyMinutesDown": {}
   },
   {
@@ -178,11 +176,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 927,
-    "timeDay": 927,
-    "timeWeek": 941,
-    "timeMonth": 927,
-    "timeYear": 927,
+    "time": 925,
+    "timeDay": 903,
+    "timeWeek": 931,
+    "timeMonth": 925,
+    "timeYear": 925,
     "dailyMinutesDown": {}
   }
 ]
