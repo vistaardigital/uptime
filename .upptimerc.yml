@@ -27,6 +27,8 @@ sites:
     url: https://www.ghgplatform-india.org/
   - name: Africa Energy Trends
     url: https://africaenergytrends.org/
+  - name: ICED Staging
+    url: https://iced.showdigital.in/
     
 assignees:
   - vistaar-drane
