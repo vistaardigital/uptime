@@ -184,19 +184,19 @@
     "url": "https://vasudhausa.org/",
     "icon": "https://icons.duckduckgo.com/ip3/vasudhausa.org.ico",
     "slug": "vasudha-usa",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
-    "time": 710,
-    "timeDay": 2158,
-    "timeWeek": 1116,
-    "timeMonth": 714,
-    "timeYear": 710,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 708,
+    "timeDay": 1824,
+    "timeWeek": 1064,
+    "timeMonth": 708,
+    "timeYear": 708,
     "dailyMinutesDown": {
-      "2025-12-09": 21
+      "2025-12-09": 28
     }
   },
   {
