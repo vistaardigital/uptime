@@ -19,8 +19,8 @@ sites:
     url: https://climatechange.envt.kerala.gov.in/
   - name: GEDA
     url: https://climatetracker.gujarat.gov.in/
-  - name: Vasudha USA
-    url: https://vasudhausa.org/
+  #- name: Vasudha USA
+  #  url: https://vasudhausa.org/
   #- name: Energy Transition Platform
   #  url: https://www.energytransitionplatform.org/
   - name: GHG Platform India
