@@ -29,6 +29,10 @@ sites:
     url: https://africaenergytrends.org/
   - name: ICED Staging
     url: https://iced.showdigital.in/
+  - name: EHWachs
+    url: https://ehwachs.com/
+  - name: Turn Valves
+    url: https://turnvalves.com/
     
 assignees:
   - vistaar-drane
