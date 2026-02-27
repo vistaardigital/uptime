@@ -137,7 +137,7 @@
     "uptime": "79.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "73.51%",
-    "uptimeMonth": "45.48%",
+    "uptimeMonth": "45.52%",
     "uptimeYear": "79.43%",
     "time": 11244,
     "timeDay": 22634,
@@ -309,19 +309,19 @@
     "url": "https://ehwachs.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ehwachs.com.ico",
     "slug": "eh-wachs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 319,
-    "timeDay": 433,
-    "timeWeek": 255,
-    "timeMonth": 334,
-    "timeYear": 319,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 320,
+    "timeDay": 409,
+    "timeWeek": 272,
+    "timeMonth": 336,
+    "timeYear": 320,
     "dailyMinutesDown": {
-      "2026-02-27": 1
+      "2026-02-27": 15
     }
   },
   {
@@ -329,19 +329,19 @@
     "url": "https://turnvalves.com/",
     "icon": "https://icons.duckduckgo.com/ip3/turnvalves.com.ico",
     "slug": "turn-valves",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 331,
-    "timeDay": 304,
-    "timeWeek": 265,
-    "timeMonth": 347,
+    "timeDay": 334,
+    "timeWeek": 277,
+    "timeMonth": 348,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2026-02-27": 0
+      "2026-02-27": 15
     }
   }
 ]
