@@ -1,7 +1,7 @@
 url: https://www.ghgplatform-india.org/
-status: up
-code: 200
-responseTime: 288
-lastUpdated: 2026-03-01T23:10:48.567Z
+status: down
+code: 500
+responseTime: 877
+lastUpdated: 2026-03-02T11:39:23.545Z
 startTime: 2023-01-04T06:27:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
