@@ -15,37 +15,34 @@ sites:
     url: https://activatr.in/
   - name: Pharma Sales
     url: https://salesdashboard.enablrsales.com/
-  - name: CMS Ciplamedflix
-    url: https://cms.ciplamedflix.com/
-  - name: Kerala GHG
-    url: https://climatechange.envt.kerala.gov.in/
-  - name: GEDA
-    url: https://climatetracker.gujarat.gov.in/
+  #- name: CMS Ciplamedflix
+  #  url: https://cms.ciplamedflix.com/
+  #- name: Kerala GHG
+  #  url: https://climatechange.envt.kerala.gov.in/
+  #- name: GEDA
+  #  url: https://climatetracker.gujarat.gov.in/
   #- name: Vasudha USA
   #  url: https://vasudhausa.org/
   #- name: Energy Transition Platform
   #  url: https://www.energytransitionplatform.org/
-  - name: GHG Platform India
-    url: https://www.ghgplatform-india.org/
-  - name: Africa Energy Trends
-    url: https://africaenergytrends.org/
-  - name: ICED Staging
-    url: https://iced.showdigital.in/
-  - name: EHWachs
-    url: https://ehwachs.com/
-  - name: Turn Valves
-    url: https://turnvalves.com/
+  #- name: GHG Platform India
+  #  url: https://www.ghgplatform-india.org/
+  #- name: Africa Energy Trends
+  #  url: https://africaenergytrends.org/
+  #- name: ICED Staging
+  #  url: https://iced.showdigital.in/
+  #- name: EHWachs
+  #  url: https://ehwachs.com/
+  #- name: Turn Valves
+  #  url: https://turnvalves.com/
     
 assignees:
   - vistaar-drane
-  - vistaar-mjani
   - vistaar-moza
   - vistaar-abalotiya
   - vistaar-pshah
   - vistaar-stondwalkar
-  - vistaar-apatil
-  - vistaar-arpatil
-
+  
 status-website:
   cname: uptime.showdigital.in
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
