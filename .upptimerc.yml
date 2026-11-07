@@ -1,31 +1,52 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: vistaardigital # Your GitHub organization or username
+repo: uptime # Your GitHub repository name
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Vistaar Digital
+    url: https://www.vistaardigital.com
+  - name: Enablr Sales
+    url: https://enablrsales.com/
+  - name: Enablr Sales Admin
+    url: https://app.enablrsales.com/
+  - name: Activatr
+    url: https://activatr.in/
+  - name: Pharma Sales
+    url: https://salesdashboard.enablrsales.com/
+  - name: CMS Ciplamedflix
+    url: https://cms.ciplamedflix.com/
+  - name: Kerala GHG
+    url: https://climatechange.envt.kerala.gov.in/
+  - name: GEDA
+    url: https://climatetracker.gujarat.gov.in/
+  #- name: Vasudha USA
+  #  url: https://vasudhausa.org/
+  #- name: Energy Transition Platform
+  #  url: https://www.energytransitionplatform.org/
+  - name: GHG Platform India
+    url: https://www.ghgplatform-india.org/
+  - name: Africa Energy Trends
+    url: https://africaenergytrends.org/
+  - name: ICED Staging
+    url: https://iced.showdigital.in/
+  - name: EHWachs
+    url: https://ehwachs.com/
+  - name: Turn Valves
+    url: https://turnvalves.com/
+    
+assignees:
+  - vistaar-drane
+  - vistaar-mjani
+  - vistaar-moza
+  - vistaar-abalotiya
+  - vistaar-pshah
+  - vistaar-stondwalkar
+  - vistaar-apatil
+  - vistaar-arpatil
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: uptime.showdigital.in
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  name: Uptime
+  introTitle: "Site uptime monitor and status page, powered by GitHub and Upptime."
+  introMessage: Real time status data
