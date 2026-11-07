@@ -3,6 +3,8 @@ owner: vistaardigital # Your GitHub organization or username
 repo: uptime # Your GitHub repository name
 
 sites:
+  - name: Enablr Sales Dev
+    url: https://dev.enablrsales.com/
   - name: Vistaar Digital
     url: https://www.vistaardigital.com
   - name: Enablr Sales
