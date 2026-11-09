@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.enablrsales.com.ico",
     "slug": "enablr-sales-dev",
     "status": "up",
-    "uptime": "39.05%",
+    "uptime": "50.71%",
     "uptimeDay": "50.85%",
-    "uptimeWeek": "39.05%",
-    "uptimeMonth": "39.05%",
-    "uptimeYear": "39.05%",
+    "uptimeWeek": "50.71%",
+    "uptimeMonth": "50.71%",
+    "uptimeYear": "50.71%",
     "time": 8543,
     "timeDay": 26524,
     "timeWeek": 8543,
@@ -62,18 +62,20 @@
     "url": "https://app.enablrsales.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app.enablrsales.com.ico",
     "slug": "enablr-sales-admin",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2197,
     "timeDay": 2243,
     "timeWeek": 2197,
     "timeMonth": 2197,
     "timeYear": 2197,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-09": 0
+    }
   },
   {
     "name": "Activatr",
@@ -98,9 +100,9 @@
     "url": "https://salesdashboard.enablrsales.com/",
     "icon": "https://icons.duckduckgo.com/ip3/salesdashboard.enablrsales.com.ico",
     "slug": "pharma-sales",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,6 +111,8 @@
     "timeWeek": 1828,
     "timeMonth": 1828,
     "timeYear": 1828,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-09": 0
+    }
   }
 ]
