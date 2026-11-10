@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.enablrsales.com.ico",
     "slug": "enablr-sales-dev",
     "status": "down",
-    "uptime": "53.55%",
-    "uptimeDay": "50.83%",
-    "uptimeWeek": "53.55%",
-    "uptimeMonth": "53.55%",
-    "uptimeYear": "53.55%",
+    "uptime": "45.95%",
+    "uptimeDay": "50.45%",
+    "uptimeWeek": "45.95%",
+    "uptimeMonth": "45.95%",
+    "uptimeYear": "45.95%",
     "time": 8543,
     "timeDay": 26524,
     "timeWeek": 8543,
@@ -18,7 +18,8 @@
     "dailyMinutesDown": {
       "2026-11-08": 708,
       "2026-11-07": 498,
-      "2026-11-09": 211
+      "2026-11-09": 713,
+      "2026-11-10": 2
     }
   },
   {
@@ -32,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3534,
-    "timeDay": 3506,
-    "timeWeek": 3534,
-    "timeMonth": 3534,
-    "timeYear": 3534,
+    "time": 3519,
+    "timeDay": 3472,
+    "timeWeek": 3519,
+    "timeMonth": 3519,
+    "timeYear": 3519,
     "dailyMinutesDown": {}
   },
   {
@@ -50,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3069,
-    "timeDay": 3048,
-    "timeWeek": 3069,
-    "timeMonth": 3069,
-    "timeYear": 3069,
+    "time": 3058,
+    "timeDay": 3024,
+    "timeWeek": 3058,
+    "timeMonth": 3058,
+    "timeYear": 3058,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2160,
-    "timeDay": 2146,
-    "timeWeek": 2160,
-    "timeMonth": 2160,
-    "timeYear": 2160,
+    "time": 2143,
+    "timeDay": 2061,
+    "timeWeek": 2143,
+    "timeMonth": 2143,
+    "timeYear": 2143,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2193,
-    "timeDay": 2125,
-    "timeWeek": 2193,
-    "timeMonth": 2193,
-    "timeYear": 2193,
+    "time": 2219,
+    "timeDay": 2296,
+    "timeWeek": 2219,
+    "timeMonth": 2219,
+    "timeYear": 2219,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2055,
-    "timeDay": 2267,
-    "timeWeek": 2055,
-    "timeMonth": 2055,
-    "timeYear": 2055,
+    "time": 2002,
+    "timeDay": 2264,
+    "timeWeek": 2002,
+    "timeMonth": 2002,
+    "timeYear": 2002,
     "dailyMinutesDown": {}
   }
 ]
