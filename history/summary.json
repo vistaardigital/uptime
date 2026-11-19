@@ -4,17 +4,17 @@
     "url": "https://dev.enablrsales.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.enablrsales.com.ico",
     "slug": "enablr-sales-dev",
-    "status": "down",
-    "uptime": "47.79%",
-    "uptimeDay": "50.30%",
-    "uptimeWeek": "48.69%",
-    "uptimeMonth": "47.79%",
-    "uptimeYear": "47.79%",
-    "time": 8681,
-    "timeDay": 28211,
-    "timeWeek": 10193,
-    "timeMonth": 8681,
-    "timeYear": 8681,
+    "status": "up",
+    "uptime": "46.97%",
+    "uptimeDay": "44.88%",
+    "uptimeWeek": "47.94%",
+    "uptimeMonth": "46.97%",
+    "uptimeYear": "46.97%",
+    "time": 9891,
+    "timeDay": 28042,
+    "timeWeek": 13056,
+    "timeMonth": 9891,
+    "timeYear": 9891,
     "dailyMinutesDown": {
       "2026-11-08": 708,
       "2026-11-07": 498,
@@ -28,7 +28,7 @@
       "2026-11-16": 711,
       "2026-11-17": 810,
       "2026-11-18": 716,
-      "2026-11-19": 2
+      "2026-11-19": 293
     }
   },
   {
