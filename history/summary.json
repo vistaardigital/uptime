@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.enablrsales.com.ico",
     "slug": "enablr-sales-dev",
     "status": "down",
-    "uptime": "59.11%",
+    "uptime": "59.08%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "75.46%",
-    "uptimeMonth": "59.11%",
-    "uptimeYear": "59.11%",
+    "uptimeWeek": "75.30%",
+    "uptimeMonth": "59.08%",
+    "uptimeYear": "59.08%",
     "time": 7985,
     "timeDay": 0,
     "timeWeek": 6244,
@@ -29,7 +29,7 @@
       "2026-11-17": 810,
       "2026-11-18": 716,
       "2026-11-19": 293,
-      "2026-11-25": 756,
+      "2026-11-25": 772,
       "2026-11-24": 924
     }
   },
@@ -39,18 +39,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.vistaardigital.com.ico",
     "slug": "vistaar-digital",
     "status": "down",
-    "uptime": "93.53%",
+    "uptime": "93.48%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.38%",
-    "uptimeMonth": "93.53%",
-    "uptimeYear": "93.53%",
+    "uptimeWeek": "83.22%",
+    "uptimeMonth": "93.48%",
+    "uptimeYear": "93.48%",
     "time": 3352,
     "timeDay": 0,
     "timeWeek": 3232,
     "timeMonth": 3352,
     "timeYear": 3352,
     "dailyMinutesDown": {
-      "2026-11-25": 756,
+      "2026-11-25": 772,
       "2026-11-24": 919
     }
   },
@@ -59,19 +59,20 @@
     "url": "https://enablrsales.com/",
     "icon": "https://icons.duckduckgo.com/ip3/enablrsales.com.ico",
     "slug": "enablr-sales",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.05%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "99.24%",
+    "status": "down",
+    "uptime": "99.22%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.22%",
     "time": 2995,
     "timeDay": 0,
     "timeWeek": 2884,
     "timeMonth": 2995,
     "timeYear": 2995,
     "dailyMinutesDown": {
-      "2026-11-24": 196
+      "2026-11-24": 196,
+      "2026-11-25": 6
     }
   },
   {
@@ -79,19 +80,20 @@
     "url": "https://app.enablrsales.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app.enablrsales.com.ico",
     "slug": "enablr-sales-admin",
-    "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "97.71%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "99.11%",
+    "status": "down",
+    "uptime": "99.09%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "97.66%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "99.09%",
     "time": 2033,
-    "timeDay": 1948,
+    "timeDay": 0,
     "timeWeek": 1955,
     "timeMonth": 2033,
     "timeYear": 2033,
     "dailyMinutesDown": {
-      "2026-11-24": 231
+      "2026-11-24": 231,
+      "2026-11-25": 5
     }
   },
   {
@@ -100,18 +102,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/activatr.in.ico",
     "slug": "activatr",
     "status": "down",
-    "uptime": "93.59%",
+    "uptime": "93.53%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.53%",
-    "uptimeMonth": "93.59%",
-    "uptimeYear": "93.59%",
+    "uptimeWeek": "83.37%",
+    "uptimeMonth": "93.53%",
+    "uptimeYear": "93.53%",
     "time": 2182,
     "timeDay": 0,
     "timeWeek": 2086,
     "timeMonth": 2182,
     "timeYear": 2182,
     "dailyMinutesDown": {
-      "2026-11-25": 756,
+      "2026-11-25": 772,
       "2026-11-24": 904
     }
   },
@@ -121,11 +123,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/salesdashboard.enablrsales.com.ico",
     "slug": "pharma-sales",
     "status": "down",
-    "uptime": "98.08%",
+    "uptime": "98.02%",
     "uptimeDay": "80.45%",
-    "uptimeWeek": "95.07%",
-    "uptimeMonth": "98.08%",
-    "uptimeYear": "98.08%",
+    "uptimeWeek": "94.91%",
+    "uptimeMonth": "98.02%",
+    "uptimeYear": "98.02%",
     "time": 1804,
     "timeDay": 1581,
     "timeWeek": 1758,
@@ -133,7 +135,7 @@
     "timeYear": 1804,
     "dailyMinutesDown": {
       "2026-11-24": 497,
-      "2026-11-25": 0
+      "2026-11-25": 16
     }
   }
 ]
